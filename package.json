@@ -1,0 +1,24 @@
+{
+  "name": "teo",
+  "version": "1.0.0",
+  "description": "Text Editor for OGL",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/electron/electron-quick-start",
+  "keywords": [
+    "webgl",
+    "ide",
+    "editor",
+    "ogl"
+  ],
+  "author": "millancore",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^3.0.7"
+  },
+  "dependencies": {
+    "monaco-editor": "^0.15.5"
+  }
+}
